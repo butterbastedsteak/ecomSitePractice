@@ -7,8 +7,13 @@ This directory contains html and code files that:
   Grocery shop site:
 
     dirname: grocery
+    step 1:
+
+      Design UI.
+      Produce prototype and MVP.
 
     must have categories to choose from.
+
     Each product must display:
 
       name, price, discount, offers.
